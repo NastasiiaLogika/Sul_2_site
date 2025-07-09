@@ -1,0 +1,84 @@
+body {
+    background-color: #1e1e2f;
+    color: #1e1e2f;
+}
+
+div {
+    background-color: #f9f9f9;
+    max-width: 140px;
+    border-radius: 10px;
+    padding: 50px;
+    margin:70px auto;
+    box-shadow: 0 4px 20px rgb(255, 255, 255);
+    line-height: 1.8;
+    
+}
+
+img{
+   
+}
+
+.car {
+    background-color: #f9f9f9;
+    max-width: 900px;
+    border-radius: 10px;
+    padding: 50px;
+    margin:70px auto;
+    box-shadow: 0 4px 20px rgb(255, 255, 255);
+    line-height: 1.8;
+    
+    
+}
+
+table {
+    border: 3px solid #1e1e2f;
+
+}
+
+.marg {
+    text-align: center;
+}
+
+tr{
+    border:3px solid #1e1e2f ;
+}
+
+td {
+    padding: 0px 20px 0px 20px;
+}
+
+a {
+    color: black;
+    border-radius:10px ;
+    text-decoration:none ;
+    margin: 10px;
+    border: 1px solid blue;
+    padding: 5px;
+}
+
+p {
+    text-align: center;
+}
+
+.marg {
+    color: darkblue;
+}
+
+.mod {
+        background-color: #f9f9f9;
+    max-width: 900px;
+    border-radius: 10px;
+    padding: 50px;
+    margin:200px auto;
+    box-shadow: 0 4px 20px rgb(255, 255, 255);
+    line-height: 1.8;
+}
+
+.abc {
+    margin: 30px;
+    
+}
+
+.k {
+    margin: 40px;
+}
